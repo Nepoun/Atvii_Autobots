@@ -33,7 +33,7 @@ public class CompanyController {
     @Autowired
     CompanyLinkAdder _linkAdder;
 
-    @PostMapping("/criar")
+    @PostMapping("/create")
     public ResponseEntity<Company> createCompany(@RequestBody CreateCompanyDTO company) {
 
         try {
