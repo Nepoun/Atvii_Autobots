@@ -1,0 +1,37 @@
+Date : 2022-06-23 21:51:18
+Directory : c:\Users\Walmart\Desktop\Sério\autobots\Atvii_Autobots
+Total : 4 files,  151 codes, 0 comments, 42 blanks, all 193 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |          4 |        151 |          0 |         42 |        193 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                               |          4 |        151 |          0 |         42 |        193 |
+| src                                                                                                                             |          4 |        151 |          0 |         42 |        193 |
+| src\main                                                                                                                        |          4 |        151 |          0 |         42 |        193 |
+| src\main\java                                                                                                                   |          4 |        151 |          0 |         42 |        193 |
+| src\main\java\com                                                                                                               |          4 |        151 |          0 |         42 |        193 |
+| src\main\java\com\autobots                                                                                                      |          4 |        151 |          0 |         42 |        193 |
+| src\main\java\com\autobots\automanager                                                                                          |          4 |        151 |          0 |         42 |        193 |
+| src\main\java\com\autobots\automanager\model                                                                                    |          2 |         82 |          0 |         18 |        100 |
+| src\main\java\com\autobots\automanager\model\company                                                                            |          1 |         22 |          0 |          8 |         30 |
+| src\main\java\com\autobots\automanager\service                                                                                  |          2 |         69 |          0 |         24 |         93 |
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                        | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Walmart\Desktop\Sério\autobots\Atvii_Autobots\src\main\java\com\autobots\automanager\model\NullStringVerifier.java     | Java     |         60 |          0 |         10 |         70 |
+| c:\Users\Walmart\Desktop\Sério\autobots\Atvii_Autobots\src\main\java\com\autobots\automanager\model\company\CompanyUpdater.java | Java     |         22 |          0 |          8 |         30 |
+| c:\Users\Walmart\Desktop\Sério\autobots\Atvii_Autobots\src\main\java\com\autobots\automanager\service\CompanyService.java       | Java     |         54 |          0 |         18 |         72 |
+| c:\Users\Walmart\Desktop\Sério\autobots\Atvii_Autobots\src\main\java\com\autobots\automanager\service\UserService.java          | Java     |         15 |          0 |          6 |         21 |
+| Total                                                                                                                           |          |        151 |          0 |         42 |        193 |
++---------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
