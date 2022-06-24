@@ -26,4 +26,16 @@ public class UserLinkAdder implements LinkAdder<User>{
       }
   
     }
+    
+  @Override
+  public void AddLink(User user) {
+    Link selfLink = WebMvcLinkBuilder
+        .linkTo(WebMvcLinkBuilder
+            .methodOn(UserController.class)
+            .GetUsers())
+        .withRel("users");
+    user.add(selfLink);
+  }
+
+
 }
